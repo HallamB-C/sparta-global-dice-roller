@@ -1,4 +1,4 @@
-// Your code here
+// Changed this
 Div1 = document.getElementById("div1");
 Div2 = document.getElementById("div2");
 Div3 = document.getElementById("div3");
@@ -55,13 +55,10 @@ function setDots(num){
       break;
     default:
       Div1.className = "dot";
-      Div2.className = "dot";
       Div3.className = "dot";
       Div4.className = "dot";
-      Div5.className = "dot";
       Div6.className = "dot";
       Div7.className = "dot";
-      Div8.className = "dot";
       Div9.className = "dot";
       break;
   }
